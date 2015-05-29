@@ -5,8 +5,8 @@ Welcome to KiloSpace! Please remember this is still under heavy development.
 
 ##Contents
 
-1. Preface
-2. About
+1. [Preface](https://github.com/benjaminsanders/Kilospace/tree/master#1-preface)
+2. [About](https://github.com/benjaminsanders/Kilospace/tree/master#1-about)
 3. More to come....
 
 ###1. Preface
