@@ -1,0 +1,1 @@
+[29-May-2015 01:17:52 America/Denver] PHP Fatal error:  Cannot redeclare Pages::view() in /home/silveemm/public_html/kilo.space/application/controllers/pages.php on line 8
