@@ -1,8 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-/*----------------------------------------------------*/
-/* Timed text styling */
-div#text { width: 0px; height: 2em; white-space: nowrap; overflow: hidden;  }
-
-.secretpopout { display: none; }
-
