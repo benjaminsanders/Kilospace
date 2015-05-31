@@ -18,10 +18,10 @@ if (isset($login)) {
 ?>
 
 <!-- login form box -->
-      <form class="form-signin" method="post" action="index.php" name="loginform">
+      <form class="form-signin" method="post" action="home.php" name="loginform">
         <h2 class="form-signin-heading">Sign In</h2>
         <label for="login_input_username" class="sr-only">Username</label>
-        <input type="email" id="login_input_username"  class="form-control" type="text" name="user_name" placeholder="Username" required autofocus />
+        <input type="text" id="login_input_username"  class="form-control" type="text" name="user_name" placeholder="Username" required autofocus />
         
         <label for="inputPassword" class="sr-only">Password</label>
         <input id="inputPassword" class="form-control" type="password" name="user_password" placeholder="Password" autocomplete="off" required />
