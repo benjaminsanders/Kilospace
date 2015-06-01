@@ -21,3 +21,124 @@
     height: 128px;
     background-position: -2px -398px;
 }
+
+
+.skills {
+    background-image: url(../data/img/skills/skills.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.skills-communication {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -2px;
+}
+
+.skills-construction {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -70px;
+}
+
+.skills-farming {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -138px;
+}
+
+.skills-finance {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -206px;
+}
+
+.skills-health {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -274px;
+}
+
+.skills-management {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -342px;
+}
+
+.skills-mining {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -410px;
+}
+
+.skills-psychology {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -478px;
+}
+
+.skills-repair {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -546px;
+}
+
+.skills32 {
+    background-image: url(../data/img/skills/skills32.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.skills32-communication {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -2px;
+}
+
+.skills32-construction {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -38px;
+}
+
+.skills32-farming {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -74px;
+}
+
+.skills32-finance {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -110px;
+}
+
+.skills32-health {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -146px;
+}
+
+.skills32-management {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -182px;
+}
+
+.skills32-mining {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -218px;
+}
+
+.skills32-psychology {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -254px;
+}
+
+.skills32-repair {
+    width: 32px;
+    height: 32px;
+    background-position: -2px -290px;
+}

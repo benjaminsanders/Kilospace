@@ -17,15 +17,19 @@
     <li<?php if($section=='staff'){ echo ' class="active"';}?>>
     <a href="index.php?page=story&section=staff">Staff</a>
     </li>
+    <li<?php if($section=='skills'){ echo ' class="active"';}?>>
+    <a href="index.php?page=story&section=skills">Skills</a>
+    </li>
+    <li<?php if($section=='tasks'){ echo ' class="active"';}?>>
+    <a href="index.php?page=story&section=tasks">Tasks</a>
+    </li>
     <li<?php if($section=='base'){ echo ' class="active"';}?>>
     <a href="index.php?page=story&section=base">The Base</a>
     </li>
     <li<?php if($section=='resources'){ echo ' class="active"';}?>>
     <a href="index.php?page=story&section=resources">Resources</a>
     </li>
-    <li<?php if($section=='tasks'){ echo ' class="active"';}?>>
-    <a href="index.php?page=story&section=tasks">Jobs & Tasks</a>
-    </li>
+    
     <!--<li>
       <a href="#" aria-label="Next">
         <span aria-hidden="true">&raquo;</span>
@@ -44,6 +48,10 @@ if($section=='story'){
 		include('assets/views/help/staff.php');
 	}elseif($section=='base'){
 		include('assets/views/help/base.php');
+	}elseif($section=='resources'){
+		include('assets/views/help/resources.php');
+	}elseif($section=='skills'){
+		include('assets/views/help/skills.php');
 	}elseif($section=='tasks'){
 		include('assets/views/help/tasks.php');
 	}

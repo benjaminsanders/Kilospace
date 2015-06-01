@@ -18,6 +18,10 @@ $(function() {
 	$('#fade6').hide(0).delay(2550).fadeIn(750);
 	$('#fade7').hide(0).delay(3050).fadeIn(750);
 	$('#fade8').hide(0).delay(3550).fadeIn(750);
+	$('#fade9').hide(0).delay(4050).fadeIn(750);
+	$('#fade10').hide(0).delay(4550).fadeIn(750);
+	$('#fade11').hide(0).delay(5050).fadeIn(750);
+	$('#fade12').hide(0).delay(5550).fadeIn(750);
 });
 
 
