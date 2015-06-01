@@ -40,4 +40,4 @@ if (isset($registration)) {
 </form>
 
 <!-- backlink -->
-<a href="index.php">Back to Login Page</a>
+<a href="home.php">Back to Login Page</a>

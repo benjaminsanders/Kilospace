@@ -1,5 +1,6 @@
 <body>
-
+    <script src="../../assets/js/jquery.js"></script>
+    <script src="../../assets/js/scripts.js"></script>
     <div class="container">
 <?php
 // show potential errors / feedback (from login object)
@@ -17,6 +18,7 @@ if (isset($login)) {
 }
 ?>
 
+<div id="fadein">
 <!-- login form box -->
       <form class="form-signin" method="post" action="home.php" name="loginform">
         <h2 class="form-signin-heading">Sign In</h2>
@@ -29,11 +31,10 @@ if (isset($login)) {
         <input class="btn btn-lg btn-primary pull-left" type="submit"  name="login" value="Log In" />
         <a class="btn btn-lg btn-info pull-right" href="register.php">Register</a>
       </form>
-
+		</div>
     </div> <!-- /container -->
 
 
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+
   </body>
 </html>
