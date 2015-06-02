@@ -5,7 +5,7 @@
 <title>KiloSpace</title>
 <link href="../assets/css/stylesheet.css" rel="stylesheet">
 <link href="../assets/css/game.css" rel="stylesheet">
-<link rel="shortcut icon" href="../favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="../icon.png" type="image/x-icon" />
 <script src="../../assets/js/jquery.js"></script>
 <script src="../../assets/js/scripts.js"></script>
 </head>
