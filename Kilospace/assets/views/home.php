@@ -7,22 +7,22 @@
 <div class="container">
 <div class="row">
 <!-- Large Left Area -->
-<div class="col-lg-8 col-sm-12" style="height:580px">
-<img src="../assets/img/bg1.png" class="img-responsive img-thumbnail"/> </div>
+<div class="col-lg-8" style="height:580px">
+<a href="index.php?page=story"><img src="../assets/img/bg1.png" class="img-responsive img-thumbnail"/></a></div>
 <!-- Large Left Area -->
-<div class="col-lg-4 col-sm-12">
-  <p id="fade1"><img src="../assets/img/bg3.png"class="img-responsive img-thumbnail"/> </p>
-  <p id="fade2"><img src="../assets/img/bg4.png" alt=""class="img-responsive img-thumbnail"/></p>
-  <p id="fade3"><img src="../assets/img/bg2.png" alt="" class="img-responsive img-thumbnail"/></p>
+<div class="col-lg-4">
+  <p id="fade1"><a href="index.php?page=story&section=base"><img src="../assets/img/bg3.png"class="img-responsive img-thumbnail"/></a> </p>
+  <p id="fade2"><a href="index.php?page=story&section=resources"><img src="../assets/img/bg4.png" alt=""class="img-responsive img-thumbnail"/></a></p>
+  <p id="fade3"><a href="index.php?page=story&section=administrators"><img src="../assets/img/bg2.png" alt="" class="img-responsive img-thumbnail"/></a></p>
 </div>
 </div>
 <hr />
 <div class="row well">
-<div class="col-lg-5 col-sm-12" style="height:600px">
+<div class="col-lg-5 col-sm-4" style="height:600px">
 <a class="twitter-timeline" target="_blank" href="https://twitter.com/kilospace" data-widget-id="605392934029000705">Tweets by @kilospace</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
-<div class="col-lg-1 col-sm-12">
+<div class="col-lg-1 col-sm-1">
 <script type="text/javascript">
     jQuery(document).ready(function() {
         jQuery('[rel=popover]').popover();
@@ -47,8 +47,8 @@
 
 <a title="Repair" rel="popover" data-placement="left" data-html=true data-trigger="hover" data-content="<div style='width:200px'><font size='1px'>This skill is required for staff to perform repairs to the base and equipment.</font></div>"><i class="skills skills-repair"></i></a>
 </div>
-<div class="col-lg-6 col-sm-12 row">
-<div class="col-lg-6 label label-default" style="height:280px">
+<div class="col-lg-6  col-sm-6 row">
+<div class="col-lg-6  col-sm-6 label label-default" style="height:280px">
 <h4>Updates</h4>
 <p><a target="_blank" href="https://vimeo.com/129573751">Introduction Story Posted On Vimeo</a></p>
 <p><a target="_blank" href="https://www.youtube.com/watch?v=3TER7NYY1jo">Introduction Story Posted On YouTube</a></p>
@@ -58,7 +58,7 @@
 <p><a target="_blank" href="http://www.gofundme.com/vxtd558z">GoFundMe Campaign Created</a></p>
 <p><a target="_blank" href="https://www.kickstarter.com/projects/1027494116/kilospace-space-base-management-simulator">Kickstarter Approved</a></p>
 </div>
-<div class="col-lg-6" style="height:280px">
+<div class="col-lg-6 col-sm-4" style="height:280px">
 <div class="github-card" data-github="benjaminsanders/kilospace" data-width="250" data-height="" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 </div>
@@ -66,7 +66,7 @@
   <br />
 <h5>Admins</h5>
 <a title="Lessig" rel="popover" data-placement="left" data-html=true data-trigger="hover" data-content="<div style='width:200px'><font size='1px'><div class='row'>
-    <div class='col-lg-5'><i class='admin32 admin32-lessig img-thumbnail'></i></div>
+    <div class='col-lg-5 col-sm-2'><i class='admin32 admin32-lessig img-thumbnail'></i></div>
     <div class='col-lg-7'>
     <table width='100'>
   <tr>
