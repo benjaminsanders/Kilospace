@@ -1,3 +1,8 @@
+<html>
+<head>
+<link href="../assets/css/stylesheet.css" rel="stylesheet">
+</head>
+<body>
 <?php
 
 /**

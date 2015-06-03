@@ -142,3 +142,34 @@
     height: 32px;
     background-position: -2px -290px;
 }
+
+.admin32 {
+    background-image: url(../data/img/char/admins32.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.admin32-alec {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -2px;
+}
+
+.admin32-bjin {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -70px;
+}
+
+.admin32-branko2 {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -138px;
+}
+
+.admin32-lessig {
+    width: 64px;
+    height: 64px;
+    background-position: -2px -206px;
+}
+

@@ -1,6 +1,6 @@
 <div class="container">
 <div class="row">
-<div class="col-lg-12" id="fadeinfast">
+<div class="col-lg-12">
 <nav>
   <ul class="pagination">
     <!--<li>

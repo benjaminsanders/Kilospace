@@ -2,22 +2,23 @@
     <script src="../../assets/js/jquery.js"></script>
     <script src="../../assets/js/scripts.js"></script>
     <div class="container">
+    <center>
 <?php
 // show potential errors / feedback (from login object)
 if (isset($login)) {
     if ($login->errors) {
         foreach ($login->errors as $error) {
-            echo $error;
+             echo "<div class='col-lg-4 col-lg-offset-4'><span class='alert alert-danger'>".$error."</div></span>";
         }
     }
     if ($login->messages) {
         foreach ($login->messages as $message) {
-            echo $message;
+             echo "<div class='col-lg-4 col-lg-offset-4'><span class='alert alert-warning'>".$message."</div></span>";
         }
     }
 }
 ?>
-
+</center>
 <div id="fadein">
 <!-- login form box -->
       <form class="form-signin" method="post" action="home.php" name="loginform">
