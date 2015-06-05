@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="play.php" server="kilo.space" local="130777734241673554" remote="130777806000000000" Dst="2" />
-<file name="home.php" server="kilo.space" local="130778188022776752" remote="130778259600000000" Dst="2" />
-<file name="faq.php" server="kilo.space" local="130775788448995930" remote="130775860200000000" Dst="2" />
-<file name="help.php" server="kilo.space" local="130775830695149951" remote="130775902200000000" Dst="2" />
-<file name="story.php" server="kilo.space" local="130777740085813127" remote="130777812000000000" Dst="2" />
-<file name="forum.php" server="kilo.space" local="130775945609050682" remote="130776017400000000" Dst="2" />
+<file name="play.php" server="kilo.space" local="130779429670097734" remote="130779501600000000" Dst="2" />
+<file name="home.php" server="kilo.space" local="130778539486692133" remote="130779210000000000" Dst="2" />
+<file name="faq.php" server="kilo.space" local="130775788448995930" remote="130779210000000000" Dst="2" />
+<file name="help.php" server="kilo.space" local="130775830695149951" remote="130779210000000000" Dst="2" />
+<file name="story.php" server="kilo.space" local="130777740085813127" remote="130779210000000000" Dst="2" />
+<file name="forum.php" server="kilo.space" local="130779084688449435" remote="130779210000000000" Dst="2" />
+<file name="starting.php" server="kilo.space" local="130775783905847294" remote="130779210000000000" Dst="2" />
+<file name="contact.php" server="kilo.space" local="130779370697568196" remote="130779442200000000" Dst="2" />
+<file name="press.php" server="kilo.space" local="130779370721553599" remote="130779442200000000" Dst="2" />
 </dwsync>

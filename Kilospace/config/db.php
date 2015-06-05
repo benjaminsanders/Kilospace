@@ -12,6 +12,6 @@
  * DB_PASS: the password of the above user
  */
 define("DB_HOST", "localhost");
-define("DB_NAME", "silveemm_kilospace");
-define("DB_USER", "silveemm_kilo");
+define("DB_NAME", "greeabam_kilospace");
+define("DB_USER", "greeabam_kilo");
 define("DB_PASS", "50calbmg");

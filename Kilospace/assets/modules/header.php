@@ -8,6 +8,16 @@
 <link rel="shortcut icon" href="../icon.png" type="image/x-icon" />
 <script src="../../assets/js/jquery.js"></script>
 <script src="../../assets/js/scripts.js"></script>
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-63689317-2', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
 </head>
 <body>
     <!-- Fixed navbar -->
@@ -29,18 +39,18 @@
             <li <?php if($page=='story'){ echo 'class="active"';}?>><a href="index.php?page=story">Story</a></li>
             <!--<li <?php //if($page=='starting'){ echo 'class="active"';}?>><a href="index.php?page=starting">Getting Started</a></li>
             <li <?php if($page=='help'){ echo 'class="active"';}?>><a href="index.php?page=help">Help</a></li>-->
-            <li <?php if($page=='forum'){ echo 'class="active"';}?>><a href="index.php?page=forum">Forum</a></li>
-            <li <?php if($page=='press'){ echo 'class="active"';}?>><a href="index.php?page=press">Press</a></li>
+            <li <?php if($page=='forum'){ echo 'class="active"';}?>><a href="http://forum.greenridge.co" target="_blank">Forum</a></li>
+            <li <?php if($page=='press'){ echo 'class="active"';}?>><a href="http://blog.kilo.space" target="_blank">Blog</a></li>
             <li <?php if($page=='contact'){ echo 'class="active"';}?>><a href="index.php?page=contact">Contact</a></li>
             <li class="dropdown<?php if($page=='faq' or $page=='forums'){ echo ' active';}?>">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
               	<li><a href="index.php?page=faq">F.A.Q.</a></li>
-                <li><a href="index.php?page=forums">Forum</a></li>
+                <li><a href="http://forum.greenridge.co" target="_blank">Forum</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Helpdesk</li>
-                <li><a href="#">Submit New Ticket</a></li>
-                <li><a href="#">Check Ticket</a></li>
+                <li><a href="http://help.greenridge.co/index.php?a=add" target="_blank">Submit New Ticket</a></li>
+                <li><a href="http://help.greenridge.co/ticket.php" target="_blank">Check Ticket</a></li>
               </ul>
             </li>
           </ul>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="administrators.php" server="kilo.space" local="130776035827095563" remote="130776107400000000" Dst="2" />
-<file name="story.php" server="kilo.space" local="130775860582779344" remote="130775932200000000" Dst="2" />
-<file name="skills.php" server="kilo.space" local="130776092353836124" remote="130776164400000000" Dst="2" />
-<file name="staff.php" server="kilo.space" local="130776139465319241" remote="130776211200000000" Dst="2" />
-<file name="tasks.php" server="kilo.space" local="130777700380235967" remote="130777772400000000" Dst="2" />
+<file name="administrators.php" server="kilo.space" local="130776035827095563" remote="130779210000000000" Dst="2" />
+<file name="story.php" server="kilo.space" local="130775860582779344" remote="130779210000000000" Dst="2" />
+<file name="skills.php" server="kilo.space" local="130776092353836124" remote="130779210000000000" Dst="2" />
+<file name="staff.php" server="kilo.space" local="130776139465319241" remote="130779210000000000" Dst="2" />
+<file name="tasks.php" server="kilo.space" local="130779369490933414" remote="130779441000000000" Dst="2" />
+<file name="base.php" server="kilo.space" local="130779369555771026" remote="130779441600000000" Dst="2" />
+<file name="resources.php" server="kilo.space" local="130779369615449324" remote="130779441600000000" Dst="2" />
 </dwsync>
