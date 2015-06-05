@@ -1,10 +1,6 @@
-<div class="container" id="fade1">
-    <center>
+<div class="container text-center" id="fade1">
     <h2>Contact</h2>
-    </center>
 </div>
-<div class="container" id="fade2">
-    <center>
+<div class="container text-center" id="fade2">
     <h3>contact@kilo.space</h3>
-    </center>
 </div>
