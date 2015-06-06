@@ -2,9 +2,7 @@
 <div class="col-lg-12 text-center">
   <!-- if you need user information, just put them into the $_SESSION variable and output them here -->
   <h2 class="form-signin-heading">
-  KiloSpace Industries<br>
-  <img id="rotator" class="rotator" src="../assets/img/ssilogo.png" alt="" width="64" height="64">
-  <br></h2> 
+  KiloSpace Industries</h2><br /><br />
   <!-- The following links will eventually become images instead of css class buttons-->
   <p><a href="home.php" class="btn btn-lg btn-primary">New Game</a></p>
   <p><a href="home.php" class="btn btn-lg btn-success">Continue</a></p>
