@@ -1,8 +1,7 @@
 <div style="position:fixed;top:0;right:0;bottom:0;left:0;">
 <div class="col-lg-12 text-center">
   <!-- if you need user information, just put them into the $_SESSION variable and output them here -->
-  <h2 class="form-signin-heading">
-  KiloSpace Industries</h2><br /><br />
+  <h2 class="form-signin-heading">KiloSpace Industries</h2><br /><br />
   <!-- The following links will eventually become images instead of css class buttons-->
   <p><a href="home.php" class="btn btn-lg btn-primary">New Game</a></p>
   <p><a href="home.php" class="btn btn-lg btn-success">Continue</a></p>
